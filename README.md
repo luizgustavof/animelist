@@ -2,6 +2,8 @@
 
 O "Anime List" é um projeto que apresenta uma lista de animes recomendados, juntamente com descrições detalhadas sobre cada um deles. Esta plataforma é dedicada a entusiastas de anime que desejam descobrir novas séries, filmes e informações sobre seus animes favoritos.
 
+[Demonstração](https://luizgustavof.github.io/animelist/)
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://cdn.discordapp.com/attachments/1033920748340924506/1156614366754504826/image.png?ex=65159c91&is=65144b11&hm=558e5e2b94d1682164eaf467d60cd465a1c17e4efcf6ad35cb1da3b6694f2193&" width="1000" />
 </div>
